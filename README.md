@@ -1,1 +1,1 @@
-# dockerapp build using jenkins scm poll 2
+# dockerapp build using jenkins 
